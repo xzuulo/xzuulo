@@ -1,10 +1,25 @@
-# Backend Developer
+<p align="center">
+<img src="https://i.imgur.com/txUtnnL.png" border="0">
+</p>
 
-Backend developer working with **Node.js (NestJS, Express)** and **Python (FastAPI)**.
+---
+
+### Main Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nestjs,py,fastapi&theme=dark" alt="Main Stack" />
+  </a>
+</p>
+
 
 ---
 
 ### Tech Stack
+
+<details open>
+<summary><b>Full Stack Breakdown</b></summary>
+<br>
 
 #### Backend & Languages
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -30,6 +45,8 @@ Backend developer working with **Node.js (NestJS, Express)** and **Python (FastA
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</details>
 
 ---
 
